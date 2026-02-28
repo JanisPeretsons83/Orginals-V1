@@ -14,7 +14,7 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:
 .header h1{margin:0 0 6px 0; font-size:20pt; color:#0f172a; text-align:center;}
 .header p{margin:6px 0; color:#0f172a; text-align:center;}
 .section{background:#dff7f7; border-radius:14px; padding:16px 18px;}
-table{width:100%; border-collapse:separate; border-spacing:0 8px;}
+table{width:100%; border-collapse:separate; border-spacing:0 5px;}
 th{color:#111827; text-align:left; font-size:6pt; padding:4px 8px;}
 td{font-size:6pt; padding:4px 8px; vertical-align:middle;}
 .cell-date{width:20%;}
