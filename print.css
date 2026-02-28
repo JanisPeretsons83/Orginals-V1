@@ -15,11 +15,11 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:
 .header p{margin:6px 0; color:#0f172a; text-align:center;}
 .section{background:#dff7f7; border-radius:14px; padding:16px 18px;}
 table{width:100%; border-collapse:separate; border-spacing:0 8px;}
-th{color:#111827; text-align:left; font-size:11pt; padding:4px 8px;}
-td{font-size:11pt; padding:5px 8px; vertical-align:middle;}
+th{color:#111827; text-align:left; font-size:6pt; padding:4px 8px;}
+td{font-size:6pt; padding:5px 8px; vertical-align:middle;}
 .cell-date{width:20%;}
 .cell-hours{width:15%;}
-.chip{display:inline-block; padding:1px 8px; font-size:10pt; border-radius:999px; color:#111; font-weight:700; border:1px solid #bbb;}
+.chip{display:inline-block; padding:1px 8px; font-size:6pt; border-radius:999px; color:#111; font-weight:700; border:1px solid #bbb;}
 .chip-blue{background:#dbeafe; border-color:#bfdbfe;}
 .chip-green{background:#d1fae5; border-color:#a7f3d0;}
 .chip-orange{background:#fef3c7; border-color:#fde68a;}
