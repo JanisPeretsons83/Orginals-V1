@@ -112,8 +112,5 @@ function init(){
 }
 
 init();
-  if (window.matchMedia('(display-mode: standalone)').matches
-    || navigator.standalone === true) {
-    window.location.href = window.location.href;
-}
+
 })();
