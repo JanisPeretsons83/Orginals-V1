@@ -110,6 +110,9 @@ function init(){
   // Auto-iziet pēc drukas (ne visos iOS darbojas, bet nekaitē)
   window.addEventListener('afterprint', ()=> setTimeout(tryExit, 100));
 }
-
+if (window.matchMedia('(display-mode: standalone)').matches
+    || navigator.standalone === true) {
+    window.location.href = window.location.href;
+}
 init();
 })();
